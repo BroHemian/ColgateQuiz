@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+    <introduction>this is a test that has questions</introduction>
+    <questions>
+        <question>
+            <questionVerbiage>Which competitor's mouth wash has been proven less effective than Colgate Total mouthwash?</questionVerbiage>
+			<type>MC</type>
+            <answers>
+                <answer correctAnswer="true">Crest Pro-Health</answer>
+                <answer correctAnswer="false">Listerine </answer>
+                <answer correctAnswer="false">Scope dual blast</answer>                    
+                <answer correctAnswer="false">Biotene BPF</answer>
+            </answers>
+        </question>
+        <question>
+        	<questionVerbiage>How long does Colgate Total mouthwash keep fighing oral bacteria?</questionVerbiage>
+        	<type>MC</type>
+			<answers>
+        		<answer correctAnswer="false">2 hours</answer>
+        		<answer correctAnswer="true">12 hours</answer>
+        		<answer correctAnswer="false">6 hours</answer>
+        		<answer correctAnswer="false">4 hours</answer></answers></question>
+        <question>
+        	<questionVerbiage>How long does it take for Colgate Total toothpaste to fortify tooth enamel?</questionVerbiage>
+			<type>MC</type>
+        	<answers>
+        		<answer correctAnswer="false">8 hours</answer>
+        		<answer correctAnswer="false">3 hours</answer>
+        		<answer correctAnswer="false">12 hours</answer>
+        		<answer correctAnswer="true">24 hours</answer></answers></question>
+        <question>
+        	<questionVerbiage>Colgate total improves gum health in how many weeks?</questionVerbiage>
+			<type>MC</type>
+        	<answers>
+        		<answer correctAnswer="false">2 weeks</answer>
+        		<answer correctAnswer="false">6 weeks</answer>
+        		<answer correctAnswer="true">4 weeks</answer>
+        		<answer correctAnswer="false">8 weeks</answer></answers></question>
+		<question>
+        	<questionVerbiage>After 12 hours Colgate Total toothpaste keeps away what percentage of germs?</questionVerbiage>
+			<type>MC</type>
+        	<answers>
+        		<answer correctAnswer="false">10 percent</answer>
+        		<answer correctAnswer="false">75 percent</answer>
+        		<answer correctAnswer="true">90 percent</answer>
+        		<answer correctAnswer="false">50 percent</answer></answers></question>
+		<question>
+        	<questionVerbiage>How long should you brush with Colgate Total toothpaste?</questionVerbiage>
+			<type>MC</type>
+        	<answers>
+        		<answer correctAnswer="true">2 minutes each session</answer>
+        		<answer correctAnswer="false">4 minutes each session</answer>
+        		<answer correctAnswer="false">1 minute each session</answer>
+        		<answer correctAnswer="false">30 seconds each session</answer></answers></question>
+    </questions>
+</test>   
+
