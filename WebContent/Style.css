@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.question_area {
+	background-color: #FFF;
+	border: medium groove #F00;
+	color: #000;
+	font-size: 16pt;
+	padding: 30px;
+	
+}
+.answer_area {
+	background-color: #FFF;
+	color: #000;
+	padding: 2em;
+	
+}
+.answer_area {
+	background-color: #FFF;
+	color: #000;
+}
+
+.quiz_area {
+	font-size: larger;
+	
+	height: 250px;
+	margin:80px auto 80px auto;
+	width: 800px;
+}
+#header_border {
+	width: 1064px;
+	margin:auto;
+
+}
+#bottom_border {
+	width: 1064px;
+	margin:auto;
+}
+.results_area{
+	font-size: larger;
+	text-align:center;
+	height: 600px;
+	margin:80px auto 80px auto;
+	width: 1053px;
+}
